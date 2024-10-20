@@ -21,7 +21,7 @@ img{
   border-radius: 50%;
   width: 100px;
   height: 100px;
-  position: absolute;top: 57%;left: 50%;transform: translate(-40%, -50%);
+  position: absolute;top: 50%;left: 50%;transform: translate(-40%, -50%);
 }
 body {
   padding: 70px;
